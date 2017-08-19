@@ -1,2 +1,3 @@
-# liangpinLife
-a program with my team
+LiangpinLife
+
+A program with my team
